@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.e7d6f9f5.css",
-    "main.js": "/static/js/main.fa18c2b9.js",
+    "main.js": "/static/js/main.b60890fd.js",
     "static/media/ecommerce.png": "/static/media/ecommerce.86d6637605cf50113a67.png",
     "static/media/jeeva resume.pdf": "/static/media/jeeva resume.278becc557257b17a8e9.pdf",
     "static/media/musicapp.png": "/static/media/musicapp.cd29a449ddc0c899b4dc.png",
@@ -21,10 +21,10 @@
     "static/media/phone.png": "/static/media/phone.bb4e041025e26560d37d.png",
     "index.html": "/index.html",
     "main.e7d6f9f5.css.map": "/static/css/main.e7d6f9f5.css.map",
-    "main.fa18c2b9.js.map": "/static/js/main.fa18c2b9.js.map"
+    "main.b60890fd.js.map": "/static/js/main.b60890fd.js.map"
   },
   "entrypoints": [
     "static/css/main.e7d6f9f5.css",
-    "static/js/main.fa18c2b9.js"
+    "static/js/main.b60890fd.js"
   ]
 }
