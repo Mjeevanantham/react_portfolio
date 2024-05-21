@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/static/css/main.2719c546.css",
-    "main.js": "/static/js/main.5b2930b9.js",
+    "main.css": "/static/css/main.e7d6f9f5.css",
+    "main.js": "/static/js/main.71eee7e2.js",
     "static/media/ecommerce.png": "/static/media/ecommerce.86d6637605cf50113a67.png",
     "static/media/jeeva resume.pdf": "/static/media/jeeva resume.278becc557257b17a8e9.pdf",
     "static/media/musicapp.png": "/static/media/musicapp.cd29a449ddc0c899b4dc.png",
-    "static/media/boy1.png": "/static/media/boy1.df5925ff063b5c470017.png",
     "static/media/sidebar.png": "/static/media/sidebar.049efba9bb765ade381d.png",
     "static/media/boys.png": "/static/media/boys.9f6afab01a23179b346f.png",
+    "static/media/boy1.png": "/static/media/boy1.a85773393eb8ce2ba8c4.png",
     "static/media/crown.png": "/static/media/crown.6a0a2b949139e0fc2c94.png",
     "static/media/hoc.png": "/static/media/hoc.e6af51fc04c57ae67096.png",
     "static/media/heartemoji.png": "/static/media/heartemoji.d7a6f9406eb8ba1c3361.png",
@@ -20,11 +20,11 @@
     "static/media/mail.png": "/static/media/mail.5ee2126b073819a9e0e2.png",
     "static/media/phone.png": "/static/media/phone.bb4e041025e26560d37d.png",
     "index.html": "/index.html",
-    "main.2719c546.css.map": "/static/css/main.2719c546.css.map",
-    "main.5b2930b9.js.map": "/static/js/main.5b2930b9.js.map"
+    "main.e7d6f9f5.css.map": "/static/css/main.e7d6f9f5.css.map",
+    "main.71eee7e2.js.map": "/static/js/main.71eee7e2.js.map"
   },
   "entrypoints": [
-    "static/css/main.2719c546.css",
-    "static/js/main.5b2930b9.js"
+    "static/css/main.e7d6f9f5.css",
+    "static/js/main.71eee7e2.js"
   ]
 }
